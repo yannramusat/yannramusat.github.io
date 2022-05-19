@@ -14,12 +14,13 @@ organizations:
     url: https://liris.cnrs.fr
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include provenance ans data integration scenarios for property graph models.
 
 # Interests to show in About widget
 interests:
   - Provenance
-  - Graph databases
+  - Graph databases (Property graphs)
+  - Data integration
 
 # Education to show in About widget
 education:
