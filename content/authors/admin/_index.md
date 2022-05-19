@@ -72,7 +72,7 @@ email: 'yann.ramusat@ens.fr'
 highlight_name: true
 ---
 
-I am a postdoctoral researcher hosted by [Angela Bonifati](https://perso.liris.cnrs.fr/angela.bonifati/) at the [LIRIS](https://liris.cnrs.fr/), [UCBL](https://www.univ-lyon1.fr/).
+I am a postdoctoral researcher hosted by [Angela Bonifati](https://perso.liris.cnrs.fr/angela.bonifati/) in the Database group of the [LIRIS-CNRS](https://liris.cnrs.fr/) research laboratory at [UCBL](https://www.univ-lyon1.fr/).
 
 My research interests focus on *provenance* for *navigational queries* and *data integration scenarios* for *property graph models*.
 I'm broadly interested in *database theory* and *practice*, *finite model theory* and more generally, to every kind of problem arising in *Computer Science*. 
