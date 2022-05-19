@@ -71,10 +71,11 @@ email: 'yann.ramusat@ens.fr'
 highlight_name: true
 ---
 
-I am a postdoctoral researcher at Université Claude Bernard Lyon 1 - Liris Research Lab, hosted by Angela Bonifati.
+I am a postdoctoral researcher hosted by Angela Bonifati at Liris, Université Claude Bernard Lyon 1.
 
-My research interests...
+My research interests focus on provenance for navigational queries and data integration for property graph models.
+I'm broadly interested in database theory and practice, finite model theory and more generally, to every kind of problem arising in Computer Science. 
 
-I hold a PhD from École normale supérieure - PSL (Valda team). I was jointly advised by Silviu Maniu and Pierre Senellart in the Valda team at DI ENS.
+I hold a PhD from École normale supérieure. I was jointly advised by Silviu Maniu and Pierre Senellart in the Valda team at DI ENS.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}} (french, PDF).
