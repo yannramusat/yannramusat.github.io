@@ -14,7 +14,7 @@ organizations:
     url: https://liris.cnrs.fr
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include provenance and data integration scenarios for property graph models.
+bio: My research interests include database provenance and data integration scenarios for property graph models.
 
 # Interests to show in About widget
 interests:
