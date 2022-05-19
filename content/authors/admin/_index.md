@@ -79,6 +79,6 @@ I'm broadly interested in *database theory* and *practice*, *finite model theory
 
 I hold a {{< staticref "uploads/99762_RAMUSAT_2022_archivage.pdf" "newtab" >}}PhD{{< /staticref >}} from [École normale supérieure](https://www.ens.psl.eu/) | [PSL University](https://psl.eu/). I was jointly advised by [Silviu Maniu](http://silviu.maniu.info/) and [Pierre Senellart](https://pierre.senellart.com/) within the [Valda](https://team.inria.fr/valda/fr/) team of the [DI ENS](https://www.di.ens.fr/) laboratory.
 
-Before that, I was a student at [ENS Ulm](https://www.ens.psl.eu/) and obtained a M.Sc. at [Paris Diderot University](https://univ-paris-diderot.fr/) ([MPRI](https://wikimpri.dptinfo.ens-cachan.fr/)).
+Before that, I was a student at [ENS Ulm](https://www.ens.psl.eu/) and obtained the M.Sc. called [MPRI](https://wikimpri.dptinfo.ens-cachan.fr/).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}} (french, PDF).
