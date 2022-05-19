@@ -10,7 +10,7 @@ role: Postdoc in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Université Claude Bernard Lyon 1   Liris Research Lab 
+  - name: LIRIS-CNRS 
     url: https://liris.cnrs.fr
 
 # Short bio (displayed in user profile at end of posts)
@@ -72,7 +72,7 @@ email: 'yann.ramusat@ens.fr'
 highlight_name: true
 ---
 
-I am a postdoctoral researcher hosted by [Angela Bonifati](https://perso.liris.cnrs.fr/angela.bonifati/) at the [Liris](https://liris.cnrs.fr/), [UCBL](https://www.univ-lyon1.fr/).
+I am a postdoctoral researcher hosted by [Angela Bonifati](https://perso.liris.cnrs.fr/angela.bonifati/) at the [LIRIS](https://liris.cnrs.fr/), [UCBL](https://www.univ-lyon1.fr/).
 
 My research interests focus on *provenance* for *navigational queries* and *data integration scenarios* for *property graph models*.
 I'm broadly interested in *database theory* and *practice*, *finite model theory* and more generally, to every kind of problem arising in *Computer Science*. 
