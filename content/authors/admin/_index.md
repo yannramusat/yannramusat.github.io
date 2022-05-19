@@ -10,7 +10,7 @@ role: Postdoc in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Lyon 1 University - Liris Research Lab 
+  - name: Université Claude Bernard Lyon 1   Liris Research Lab 
     url: https://liris.cnrs.fr
 
 # Short bio (displayed in user profile at end of posts)
@@ -31,7 +31,7 @@ education:
       institution: École normale supérieure (MPRI)
       year: 2017
     - course: Bachelor of Engineering
-      institution: ESIEA
+      institution: École Supérieure d'Informatique, Électronique et automatique (ESIEA)
       year: 2014
 
 # Social/Academic Networking
@@ -71,8 +71,10 @@ email: 'yann.ramusat@ens.fr'
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a postdoctoral researcher at Université Claude Bernard Lyon 1 - Liris Research Lab, hosted by Angela Bonifati.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research interests...
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I hold a PhD from École normale supérieure - PSL (Valda team). I was jointly advised by Silviu Maniu and Pierre Senellart in the Valda team at DI ENS.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}} (french, PDF).
