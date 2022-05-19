@@ -19,7 +19,7 @@ bio: My research interests include provenance and data integration scenarios for
 # Interests to show in About widget
 interests:
   - Provenance
-  - Graph databases (Property graphs)
+  - Graph databases
   - Data integration
 
 # Education to show in About widget
@@ -72,9 +72,9 @@ email: 'yann.ramusat@ens.fr'
 highlight_name: true
 ---
 
-I am a postdoctoral researcher hosted by Angela Bonifati at Liris, Université Claude Bernard Lyon 1.
+I am a postdoctoral researcher hosted by [Angela Bonifati]({{< ref "https://perso.liris.cnrs.fr/angela.bonifati/" >}} "Angela Bonifati") at Liris, Université Claude Bernard Lyon 1.
 
-My research interests focus on provenance for navigational queries and data integration for property graph models.
+My research interests focus on provenance for navigational queries and data integration scenarios for property graph models.
 I'm broadly interested in database theory and practice, finite model theory and more generally, to every kind of problem arising in Computer Science. 
 
 I hold a PhD from École normale supérieure. I was jointly advised by Silviu Maniu and Pierre Senellart in the Valda team at DI ENS.
