@@ -19,8 +19,8 @@ bio: My research interests include provenance and data integration scenarios for
 # Interests to show in About widget
 interests:
   - Provenance
-  - Graph databases
-  - Data integration
+  - Graph Databases
+  - Data Integration
 
 # Education to show in About widget
 education:
@@ -74,9 +74,9 @@ highlight_name: true
 
 I am a postdoctoral researcher hosted by [Angela Bonifati](https://perso.liris.cnrs.fr/angela.bonifati/) at the [Liris](https://liris.cnrs.fr/), [Université Claude Bernard Lyon 1](https://www.univ-lyon1.fr/).
 
-My research interests focus on *provenance* for *navigational queries* and *data integration* scenarios for *property graph models*.
-I'm broadly interested in *database theory* and *practice*, *finite model theory*, and more generally to every kind of problem arising in *Computer Science*. 
+My research interests focus on *provenance* for *navigational queries* and *data integration scenarios* for *property graph models*.
+I'm broadly interested in *database theory* and *practice*, *finite model theory* and more generally, to every kind of problem arising in *Computer Science*. 
 
-I hold a PhD from [École normale supérieure](https://www.ens.psl.eu/) | [PSL University](https://psl.eu/). I was jointly advised by [Silviu Maniu](http://silviu.maniu.info/) and [Pierre Senellart](https://pierre.senellart.com/) within the [Valda](https://team.inria.fr/valda/fr/) team of the [DI ENS](https://www.di.ens.fr/) laboratory.
+I hold a {{< staticref "uploads/99762_RAMUSAT_2022_archivage.pdf" "newtab" >}}PhD{{< /staticref >}} from [École normale supérieure](https://www.ens.psl.eu/) | [PSL University](https://psl.eu/). I was jointly advised by [Silviu Maniu](http://silviu.maniu.info/) and [Pierre Senellart](https://pierre.senellart.com/) within the [Valda](https://team.inria.fr/valda/fr/) team of the [DI ENS](https://www.di.ens.fr/) laboratory.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}} (french, PDF).
