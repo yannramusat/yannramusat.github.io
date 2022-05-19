@@ -81,4 +81,4 @@ I hold a {{< staticref "uploads/99762_RAMUSAT_2022_archivage.pdf" "newtab" >}}Ph
 
 Before that, I was a student at [ENS Ulm](https://www.ens.psl.eu/) and obtained the M.Sc. called [MPRI](https://wikimpri.dptinfo.ens-cachan.fr/).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}} (french, PDF).
+{{< icon name="download" pack="fas" >}} You can download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}} (in french, PDF format).
