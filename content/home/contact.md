@@ -3,7 +3,7 @@
 widget: contact
 
 # Desactivate
-active = false
+active: false
 
 # This file represents a page section.
 headless: true
