@@ -5,7 +5,7 @@ title: 'Provenance-Based Algorithms for Rich Queries over Graph Databases'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
+  - Yann Ramusat
   - Silviu Maniu
   - Pierre Senellart
 
@@ -27,7 +27,7 @@ date: '2021-03-23T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In Proceedings 24th International Conference on Extending Database Technology, Nicosia, Cyprus, March 23 - 26
+publication: In Proceedings of the 24th International Conference on Extending Database Technology (EDBT), Nicosia, Cyprus, March 23--26
 publication_short: In *EDBT*
 
 abstract: In this paper, we investigate the efficient computation of the provenance of rich queries over graph databases. We show that semiring-based provenance annotations enrich the expressiveness of routing queries over graphs. Several algorithms have previously been proposed for provenance computation over graphs, each yielding a trade-off between time complexity and generality. Here, we address the limitations of these algorithms and propose a new one, partially bridging a complexity and expressiveness gap and adding to the algorithmic toolkit for solving this problem. Importantly, we provide a comprehensive taxonomy of semirings and corresponding algorithms, establishing which practical approaches are needed in different cases. We implement and comprehensively evaluate several practical applications of the problem (e.g., shortest distances, top-𝑘 shortest distances, Boolean or integer path features), each corresponding to a specific semiring and algorithm, that depends on the properties of the semiring. On several real-world and synthetic graph datasets, we show that the algorithms we propose exhibit large practica benefits for processing rich graph queries
