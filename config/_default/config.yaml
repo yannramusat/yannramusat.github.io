@@ -69,3 +69,7 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+cascade: # removes social share for publication https://github.com/wowchemy/wowchemy-hugo-themes/issues/936
+  - _target:
+      path: /publication/**
+    share: false
