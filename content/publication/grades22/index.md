@@ -36,7 +36,7 @@ abstract: 'We establish a translation between a formalism for dynamic programmin
 publication: "In Proceedings of the 5th ACM SIGMOD Joint International Workshop on Graph Data Management Experiences & Systems (GRADES) and Network Data Analytics (NDA), Philadelphia, Pennsylvania, USA, 12 June 2022"
 publication_short: In *GRADES-NDA@SIGMOD*
 #doi: 10.1145/3534540.3534689
-#links:
-#- name: URL
-#  url: https://doi.org/10.1145/3534540.3534689
+links:
+- name: URL
+  url: https://doi.org/10.1145/3534540.3534689
 ---

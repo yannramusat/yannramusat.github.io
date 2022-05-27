@@ -41,9 +41,9 @@ tags: [Provenance, Graph Databases, Semirings]
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+ - name: URL
+   url: https://doi.org/10.5441/002/edbt.2021.08
 
 url_pdf: ''
 url_code: ''
