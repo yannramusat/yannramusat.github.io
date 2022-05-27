@@ -15,7 +15,7 @@ authors:
 #  - 'Equal contribution'
 
 date: '2021-03-23T00:00:00Z'
-#doi: ''
+doi: '10.5441/002/edbt.2021.08'
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: '2017-01-01T00:00:00Z'
@@ -41,9 +41,9 @@ tags: [Provenance, Graph Databases, Semirings]
 featured: false
 
 # Custom links (uncomment lines below)
-links:
- - name: URL
-   url: https://doi.org/10.5441/002/edbt.2021.08
+#links:
+# - name: URL
+#   url: https://doi.org/10.5441/002/edbt.2021.08
 
 url_pdf: ''
 url_code: ''

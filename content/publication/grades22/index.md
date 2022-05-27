@@ -35,8 +35,8 @@ publication_types:
 abstract: 'We establish a translation between a formalism for dynamic programming over hypergraphs and the computation of semiring-based provenance for Datalog programs. The benefit of this translation is a new method for computing the provenance of Datalog programs for specific classes of semirings, which we apply to provenance-aware querying of graph databases. Theoretical results and practical optimizations lead to an efficient implementation using Soufflé, a state-of-the-art Datalog interpreter. Experimental results on real-world data suggest this approach to be efficient in practical contexts, competing with dedicated solutions for graphs.'
 publication: "In Proceedings of the 5th ACM SIGMOD Joint International Workshop on Graph Data Management Experiences & Systems (GRADES) and Network Data Analytics (NDA), Philadelphia, Pennsylvania, USA, 12 June 2022"
 publication_short: In *GRADES-NDA@SIGMOD*
-#doi: 10.1145/3534540.3534689
-links:
-- name: URL
-  url: https://doi.org/10.1145/3534540.3534689
+doi: 10.1145/3534540.3534689
+#links:
+#- name: URL
+#  url: https://doi.org/10.1145/3534540.3534689
 ---
