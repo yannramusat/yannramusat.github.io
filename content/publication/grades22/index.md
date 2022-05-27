@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Efficient provenance-aware querying of graph databases with datalog
+title: Efficient Provenance-Aware Querying of Graph Databases with Datalog
 subtitle: ''
 summary: ''
 authors:
@@ -33,9 +33,7 @@ publishDate: '2022-05-27T09:25:06.343217Z'
 publication_types:
 - '1'
 abstract: 'We establish a translation between a formalism for dynamic programming over hypergraphs and the computation of semiring-based provenance for Datalog programs. The benefit of this translation is a new method for computing the provenance of Datalog programs for specific classes of semirings, which we apply to provenance-aware querying of graph databases. Theoretical results and practical optimizations lead to an efficient implementation using Soufflé, a state-of-the-art Datalog interpreter. Experimental results on real-world data suggest this approach to be efficient in practical contexts, competing with dedicated solutions for graphs.'
-publication: "In Proceedings of the 5th ACM SIGMOD Joint International\
-  \ Workshop on Graph Data Management Experiences & Systems (GRADES) and Network Data\
-  \ Analytics (NDA), Philadelphia, Pennsylvania, USA, 12 June 2022"
+publication: "In Proceedings of the 5th ACM SIGMOD Joint International Workshop on Graph Data Management Experiences & Systems (GRADES) and Network Data Analytics (NDA), Philadelphia, Pennsylvania, USA, 12 June 2022"
 publication_short: In *GRADES-NDA@SIGMOD*
 #doi: 10.1145/3534540.3534689
 #links:
