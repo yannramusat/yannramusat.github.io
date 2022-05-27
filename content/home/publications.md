@@ -4,7 +4,7 @@
 widget: pages
 
 # Desacivate
-#active: false
+active: false
 
 # This file represents a page section.
 headless: true
@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Publications
+title: Selected Publications
 subtitle: 'See also on [dblp](https://dblp.org/pid/205/0833.html) and [Google Scholar](https://scholar.google.com/citations?user=kc-zUcIAAAAJ&hl)'
 
 content:
